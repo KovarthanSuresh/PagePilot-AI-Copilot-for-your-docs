@@ -1,0 +1,27 @@
+# --- Python backend ---
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Node frontend ---
+node_modules/
+.next/
+out/
+.env
+.env.*  # ignore all variants like .env.local, .env.dev
+
+# --- System & Misc ---
+.DS_Store
+*.log
+*.sqlite3
+*.db
+
+# --- IDE & Editor ---
+.vscode/
+.idea/
+
+cache/
+
+frontend.zip

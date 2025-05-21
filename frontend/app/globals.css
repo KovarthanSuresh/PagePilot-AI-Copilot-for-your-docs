@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global dark-grey background & white text override */
+html,
+body,
+#__next,
+#__next > div {
+  background-color: #2e2e2e !important;
+  color: #ffffff !important;
+}
+
+/* Center the very first <h2> inside the AI summary panel */
+.summary-content h2:first-of-type {
+  text-align: center;
+  margin-bottom: 1rem;
+}
