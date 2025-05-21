@@ -61,13 +61,13 @@ Built using **Next.js (frontend)** and **FastAPI (backend)**, PagePilot leverage
 
 ## 🧑‍💻 Tech Stack
 
-| Layer     | Technology                               |
-| --------- | ---------------------------------------- |
-| Frontend  | Next.js, Tailwind CSS                    |
-| Backend   | FastAPI, Uvicorn                         |
-| AI Models | Together AI (Vision + DeepSeek R1)       |
-| PDF Tools | PIL (for rendering), image preprocessing |
-| Hosting   | Local (Docker-ready)                     |
+| Layer     | Technology                                            |
+| --------- | ------------------------------------------------------|
+| Frontend  | Next.js, Tailwind CSS                                 |
+| Backend   | FastAPI, Uvicorn                                      |
+| AI Models | Llama 3.2 11B + DeepSeek R1 Distilled Llama 70B       |
+| PDF Tools | PIL (for rendering), image preprocessing              |
+| Hosting   | Local (Docker-ready)                                  |
 
 ---
 
