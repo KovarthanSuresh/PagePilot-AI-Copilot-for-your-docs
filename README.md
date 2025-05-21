@@ -67,7 +67,7 @@ Built using **Next.js (frontend)** and **FastAPI (backend)**, PagePilot leverage
 | Backend   | FastAPI, Uvicorn                                      |
 | AI Models | Llama 3.2 11B + DeepSeek R1 Distilled Llama 70B       |
 | PDF Tools | PIL (for rendering), image preprocessing              |
-| Hosting   | Local (Docker-ready)                                  |
+| Hosting   | Local                                                 |
 
 ---
 
